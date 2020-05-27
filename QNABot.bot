@@ -1,0 +1,18 @@
+{
+    "name": "QNABot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages.",
+            "id": "e2538460-a030-11ea-8bfe-f3fefbb0af0c",
+            "name": "http://localhost:3978/api/messages."
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "E:\\Git\\QNA-Tech-Bot-Base\\QNA-Tech-Bot-Base\\QNABot.bot"
+}
